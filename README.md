@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="FoodHub Restaurant Logo" width="120" />
-
-<br /><br />
-
 ## 🍽️ FoodHub – Restaurant Website  
 A modern, delicious, and visually engaging **Restaurant Website UI** built using HTML, CSS, and JavaScript.  
 Designed to showcase menus, chefs, services, and dining experiences with a clean and user-friendly layout.

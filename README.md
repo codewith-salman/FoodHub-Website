@@ -1,6 +1,4 @@
 <div id="top"></div>
-
-<br />
 <div align="center">
 
 ## 🍽️ FoodHub – Restaurant Website  

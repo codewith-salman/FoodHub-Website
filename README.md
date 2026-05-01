@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Foodhub%20Website/assets/images/logo.svg" alt="FoodHub Website Logo" width="100"/>
+<img src="Foodhub%20Website/assets/images/logo.svg" alt="FoodHub Website Logo" width="120"/>
 
 <br />
 <br />

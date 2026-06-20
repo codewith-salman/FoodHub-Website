@@ -71,7 +71,6 @@ Ideal for:
 - Fully responsive restaurant website layout  
 - Attractive hero section with CTA  
 - Menu showcase with food categories  
-- Chef and testimonial sections  
 - Smooth hover animations and transitions  
 - Modern and professional food-themed UI  
 

@@ -73,7 +73,6 @@ Ideal for:
 - Menu showcase with food categories  
 - Chef and testimonial sections  
 - Smooth hover animations and transitions  
-- Clean typography and spacing  
 - Modern and professional food-themed UI  
 
 ---

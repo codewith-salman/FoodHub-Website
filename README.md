@@ -21,7 +21,6 @@
 <img src="Foodhub%20Website/assets/images/logo.svg" alt="FoodHub Website Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🍽️ FoodHub – Restaurant Website</h1>
 
@@ -65,8 +64,6 @@ Ideal for:
 - Portfolio restaurant UI projects  
 - Practice with menu layouts and service sections  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -79,8 +76,6 @@ Ideal for:
 - Clean typography and spacing  
 - Modern and professional food-themed UI  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -88,8 +83,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
